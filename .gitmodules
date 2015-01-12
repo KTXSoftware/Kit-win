@@ -1,0 +1,4 @@
+[submodule "resources/app"]
+	path = resources/app
+	url = ../Kit
+	branch = master
